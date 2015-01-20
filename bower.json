@@ -1,5 +1,5 @@
 {
-  "name": "com-vxrice",
+  "name": "polymer-gae-python-sample",
   "version": "0.0.0",
   "dependencies": {
     "core-elements": "Polymer/core-elements#^0.5.1",
