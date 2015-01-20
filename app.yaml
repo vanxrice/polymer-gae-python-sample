@@ -70,6 +70,11 @@ handlers:
   static_files: static/\1
   upload: static/(.*\.json)
   expiration: "1h"
+  
+- url: /(.*\.js.map)
+  mime_type: application/json
+  static_files: static/\1
+  upload: static/(.*\.js.map)
 
 - url: /(.*\.m4v)
   mime_type: video/m4v
