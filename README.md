@@ -10,5 +10,3 @@ Check out the accompanying [blog post](http://vxrice.blogspot.com/2015/01/polyme
 
 ## License
 Apache License Version 2.0, see LICENSE file
-
-[@van_rice](http://twitter.com/van_rice)
